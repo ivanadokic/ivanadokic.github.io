@@ -1,11 +1,11 @@
 # Site settings
-author: dependable-helper-6910
-title: 
+author: Ivana Dokic
+title: Why Software Engineeging
 header-img: img/home-bg.png
 email: ivana_pile@yahoo.com
-copyright_name: dependable-helper-6910
+copyright_name: Ivana Dokic
 description: > # this means to ignore newlines until "baseurl:"
-  
+  I am not growing if I am not challenged
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ivanadokic
