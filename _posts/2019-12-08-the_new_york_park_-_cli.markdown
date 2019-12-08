@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The New York Park - CLI"
-date:       2019-12-08 22:38:36 +0000
+date:       2019-12-08 17:38:37 -0500
 permalink:  the_new_york_park_-_cli
 ---
 
