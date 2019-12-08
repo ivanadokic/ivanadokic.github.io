@@ -14,7 +14,8 @@ With Web scraping we are no longer limited to working with APIs and publicly ava
 
 [Ruby](https://www.ruby-lang.org/en) developers use Nokogiri gem as an essential web scraping tool. When combined with OpenURI, a native Ruby library for easily accessing web pages, it becomes a powerful way to get information from websites which otherwise don’t make data available through an API or RSS feed.
 
-<a href="https://imgur.com/HYEi8db"><img src="https://i.imgur.com/HYEi8dbl.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/c4gLX3e"><img src="https://i.imgur.com/c4gLX3el.png" title="source: imgur.com" /></a>
+
 
 ### So what is Nokogiri? 
 [Nokogiri](https://nokogiri.org/) is an open source software library to parse HTML and XML in Ruby. It’s actually a ruby gem that will transform a webpage into a ruby object and make all of this web scraping stuff really easy. And ruby gems are optional add-on libraries of code so developers don’t have to reinvent the wheel each time the app with a common use case is build.
@@ -71,7 +72,7 @@ Nokogiri collects these objects into a hierarchical data structure and allows us
 #### `array_of_facilities = doc.css("span.park_facilities_list_text")`
 
 
-<a href="https://imgur.com/c4gLX3e"><img src="https://i.imgur.com/c4gLX3el.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/HYEi8db"><img src="https://i.imgur.com/HYEi8dbl.png" title="source: imgur.com" /></a>
 
 #### Conclusion
 By using Nokogiri, we can get any website's HTML, represented in XML objects, including any text or data displayed on that site. 
