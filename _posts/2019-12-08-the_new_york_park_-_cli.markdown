@@ -46,11 +46,12 @@ CSS-Cascading Style Sheets - describe how HTML elements are to be displayed on
 To scrape you will need to select an element. To select an element simply pass the name of the element you want into the Nokogiri document object’s CSS method.
 ### How to Choose a CSS Selector 
 In the following steps i'll show how do we determine which selector to use to retrieve the desired information.
-#### FIGURE OUT WHAT YOU WANT TO SCRAPE
+
+### FIGURE OUT WHAT YOU WANT TO SCRAPE
 
 Start by figuring out what information you want to scrape. Use the element inspector to find the selector of a certain piece of HTML. In this case, we'll look the element containing the text in **Facilities **section.
 
-#### This is one of the pages I used for NYC Park CLI 
+### This is one of the pages I used for NYC Park CLI 
 
 <a href="https://imgur.com/4xJCSyB"><img src="https://i.imgur.com/4xJCSyBl.png" title="source: imgur.com" /></a> 
 
