@@ -6,7 +6,7 @@ permalink:  sinatra_mvc_file_structure
 ---
 
 
-<a href="https://imgur.com/YGB8RXM"><img src="https://i.imgur.com/YGB8RXMl.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/0Z6MxPf"><img src="https://i.imgur.com/0Z6MxPfl.jpg" title="source: imgur.com" /></a>
 
 [Sinatra](http://sinatrarb.com/) is a Domain Specific Language (DSL) for creating web applications in Ruby. It is dependent on the Rack web server interface. 
 
