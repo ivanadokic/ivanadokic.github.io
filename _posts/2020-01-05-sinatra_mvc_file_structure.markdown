@@ -20,7 +20,7 @@ MVC is a pattern for the architecture of a software application. It separates a
 * Views for handling graphical user interface objects and presentation
 
 ## Models, views and controllers of the MVC framework
-The Models, Views and Controllers will be grouped into a folder named **app directory** where we spend most of our time coding. All the main files are organized inside an app folder with subfolders corresponding to each component of MVC: **models** for object model files,****  views  ****for html template files, and **controllers** for controller files.
+The Models, Views and Controllers will be grouped into a folder named **app directory** where we spend most of our time coding. All the main files are organized inside an app folder with subfolders corresponding to each component of MVC: **models** for object model files,**views ** for html template files, and **controllers** for controller files.
 <a href="https://imgur.com/3Vnt72p"><img src="https://i.imgur.com/3Vnt72pl.png" title="source: imgur.com" /></a>
 ### models directory
 This directory holds the logic behind our application. Typically, these files represent either a component of our application, such as a User, Post, or Comment... Each file in models typically contains a different class. 
