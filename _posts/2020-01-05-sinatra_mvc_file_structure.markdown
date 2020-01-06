@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra MVC File Structure"
-date:       2020-01-05 23:32:02 +0000
+date:       2020-01-05 18:32:03 -0500
 permalink:  sinatra_mvc_file_structure
 ---
 
@@ -19,7 +19,7 @@ MVC is a pattern for the architecture of a software application. It separates a
 * Controllers for handling the user interface and application
 * Views for handling graphical user interface objects and presentation
 
-## Models, views, and controllers- of the MVC framework
+## Models, views and controllers of the MVC framework
 The Models, Views and Controllers will be grouped into a folder named **app directory** where we spend most of our time coding. All the main files are organized inside an app folder with subfolders corresponding to each component of MVC: **models** for object model files,****  views  ****for html template files, and **controllers** for controller files.
 <a href="https://imgur.com/3Vnt72p"><img src="https://i.imgur.com/3Vnt72pl.png" title="source: imgur.com" /></a>
 ### models directory
