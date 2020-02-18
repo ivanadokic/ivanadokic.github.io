@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "RESTful Conventions in Rails"
-date:       2020-02-17 01:21:11 +0000
+date:       2020-02-16 20:21:12 -0500
 permalink:  restful_conventions_in_rails
 ---
 
@@ -29,5 +29,8 @@ RESTful routes have a clear mapping between the URL resource and the correspondi
 
 
 > The beauty of following these conventions is that you don’t have to reinvent the wheel every time you build a new CRUD app, the routes and method names have already been decided.
+> 
+
+Connect with Me on [Twitter](https://twitter.com/LloydPile) or  [LinkedIn](https://www.linkedin.com/in/ivana-dokic-b96460120/)
 
 
