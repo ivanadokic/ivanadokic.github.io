@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Google Authentication"
-date:       2020-04-13 23:44:42 +0000
+date:       2020-04-13 19:44:42 -0400
 permalink:  google_authentication
 ---
 
