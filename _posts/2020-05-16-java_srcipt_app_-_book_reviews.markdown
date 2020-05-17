@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Java srcipt app - Book Reviews"
-date:       2020-05-17 00:34:23 +0000
+date:       2020-05-16 20:34:24 -0400
 permalink:  java_srcipt_app_-_book_reviews
 ---
 
@@ -92,6 +92,7 @@ end
 ```
 
 
+```
 class ReviewsController < ApplicationController
   def index
     reviews = Review.all
@@ -111,6 +112,7 @@ class ReviewsController < ApplicationController
     params.require(:review).permit(:description)
   end
 end
+```
 
 ##  Building out the frontend
 
