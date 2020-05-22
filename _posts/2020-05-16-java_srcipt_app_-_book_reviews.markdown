@@ -15,10 +15,10 @@ During the Covid-19 pandemic as many other parents, my new normal became filled 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/JEhCPFfqi2Hy8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/disney-books-beauty-and-the-beast-belle-JEhCPFfqi2Hy8"></a></p>
 
 
-And with all this “new normalcy”, building Book reviews application was not an easy task but i decided to use whatever time I can find to start working on a this project and incorporate many of the new skills I was hoping to learn but this time with limited time due to three kids homescholing. 
+And with all this “new normalcy”, building Book reviews application was not an easy task but i decided to use whatever time I can find to start working on this project and incorporate many of the new skills I was hoping to learn but this time with limited time due to three kids homescholing. 
 
 > This required new approaches and mentorship.
-
+> 
 > Thanks to Noah Pryer, CTO at [TEACHABLE ](https://teachable.com/) all-in-one platform that helps you create and sell courses online, and handles everything from web hosting to payment processing, I was able to complete this project and create Book reviews application. His extensive professional and academic knowledge was support needed during this period.
 
 **Project Requirements**
@@ -120,7 +120,7 @@ We have index.js file with functional programming and Adapters and respective Cl
 
 <a href="https://imgur.com/O9fZ6ad"><img src="https://i.imgur.com/O9fZ6adh.jpg" title="source: imgur.com" /></a>
 
-We have EventListener and handleMenuClick function to determine if target is anything besides the menus and I create callback object that has key value pairs and if we matched the targets with the keys in the object we can essentially pull out that function from the object and invoke it: 
+EventListener and handleMenuClick function is set to determine if target is anything besides the menus and I create callback object that has key value pairs and if we matched the targets with the keys in the object, we can essentially pull out that function from the object and invoke it: 
 ```
 function handleMenuClick(event){
   if (event.target.id !== menu){
