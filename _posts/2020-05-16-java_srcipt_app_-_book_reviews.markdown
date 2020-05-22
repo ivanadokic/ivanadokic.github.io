@@ -12,7 +12,8 @@ Ultimate goal, build Book reviews single page application (SPA) using a JavaScri
 
 During the Covid-19 pandemic as many other parents, my new normal became filled with google classrooms and spreadsheets, zoom calls, kids' online worksheets, checking their writing and helping them log onto google hangouts, turn in assignments and using many different platforms. Some of them like PEARSON REALIZE - newest learning management system, than IReady, MyON, iXL Science, Flipgrid really required my involvement.
 
-<a href="https://imgur.com/weFiLwg"><img src="https://i.imgur.com/weFiLwgh.jpg" title="source: imgur.com" /></a>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/JEhCPFfqi2Hy8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/disney-books-beauty-and-the-beast-belle-JEhCPFfqi2Hy8"></a></p>
+
 
 And with all this “new normalcy”, building Book reviews application was not an easy task but i decided to use whatever time I can find to start working on a this project and incorporate many of the new skills I was hoping to learn but this time with limited time due to three kids homescholing. 
 
