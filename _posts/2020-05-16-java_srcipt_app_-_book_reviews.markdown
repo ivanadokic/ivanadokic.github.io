@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Java srcipt app - Book Reviews"
+title:      "Java script app - Book Reviews"
 date:       2020-05-16 20:34:24 -0400
 permalink:  java_srcipt_app_-_book_reviews
 ---
